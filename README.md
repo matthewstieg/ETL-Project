@@ -1,2 +1,2 @@
 # ETL-Project
-Matt, Desirae, and Danny
+Matt Stieg, Danny Habetyes, and Desirae Gagnon
